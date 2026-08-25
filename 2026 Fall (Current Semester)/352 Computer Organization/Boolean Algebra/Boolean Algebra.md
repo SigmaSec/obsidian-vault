@@ -4,7 +4,7 @@ How many states can be represented by N binary variables?
 How many possible functions?
 16
 How? 
-2 different states, 8 different possible variaiton
+2 different states, 8 different possible variation
 
 What function is this? 
 input | output
