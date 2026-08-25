@@ -41,3 +41,5 @@ Not x And y and Not Z
 		¬ - Not Symbol
 		∧ - And Symbol
 		∨ - Or Symbol
+
+F
