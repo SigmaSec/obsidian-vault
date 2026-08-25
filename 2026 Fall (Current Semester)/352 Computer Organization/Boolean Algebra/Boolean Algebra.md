@@ -37,3 +37,7 @@ Not x And y and Not Z
 	0 1 0 -> 1 
 	1 1 0 -> 1
 	1 1 1 -> 0
+	
+		¬ - Not Symbol
+		∧ - And Symbol
+		∨ - Or Symbol
