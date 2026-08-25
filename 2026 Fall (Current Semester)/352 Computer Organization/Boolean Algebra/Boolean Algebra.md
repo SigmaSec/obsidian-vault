@@ -14,13 +14,13 @@ Not
 
 Finish these truth tables: 
 AND 
-input | output 
+x | y = output 
 	0 | 0 = 0 or F
 	0 | 1 = 0 or F 
 	1 | 0 = 0 or F 
 	1 | 1 =1 or T
 Or 
-Input | output
+x | y = output
 	0 | 0 = 0 or F
 	0 | 1 = 1 or T
 	1 | 0 = 1 or T
@@ -44,7 +44,7 @@ Not x And y and Not Z
 
 From NAND we can make anything. 
 NAND Function:
-	input | output
+	x | y = output
 	0 | 0 = 1 
 	0 | 1 = 1
 	1 | 0 = 1
