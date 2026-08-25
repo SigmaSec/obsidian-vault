@@ -13,7 +13,19 @@ Not
 Finish these truth tables: 
 AND 
 input | output 
-	0 | 0 = 0
-	0 | 1 = 0
-	1 | 0 = 0
-	1 | 1 =1 or 
+	0 | 0 = 0 or F
+	0 | 1 = 0 or F 
+	1 | 0 = 0 or F 
+	1 | 1 =1 or T
+Or 
+Input | output
+	0 | 0
+	0 | 1
+	1 | 0
+	1 | 1
+
+Not (x AND y) Or z
+x = 1, y =1, z = 0
+(1 AND 1) = 1
+NOT 1 = 0 
+0 AND 0 = 0
