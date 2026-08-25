@@ -32,3 +32,4 @@ x = 1, y =1, z = 0
 NOT 1 = 0 
 0 AND 0 = 0
 
+Not x And y and Not Z
