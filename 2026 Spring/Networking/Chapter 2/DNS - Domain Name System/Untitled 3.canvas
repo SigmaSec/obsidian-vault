@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a6ed02a615c6387d","x":-144,"y":-153,"width":250,"height":60,"type":"text","text":"Client"},
+		{"id":"f9e03229b2c7e5b1","x":180,"y":-153,"width":250,"height":60,"type":"text","text":"local DNS"},
+		{"id":"9232328cb346f922","x":291,"y":-320,"width":250,"height":60,"type":"text","text":"Root DNS server"},
+		{"id":"2e30ed44c7bf7968","x":531,"y":-184,"width":250,"height":60,"type":"text","text":"TLD"},
+		{"id":"592f3cdcf40420cd","x":570,"y":-2,"width":250,"height":60,"type":"text","text":"Auth"},
+		{"id":"bb1a196418d69a49","x":900,"y":-6,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"762cfa33e3f5f608","fromNode":"a6ed02a615c6387d","fromSide":"right","toNode":"f9e03229b2c7e5b1","toSide":"left"},
+		{"id":"42502a726ce9d48b","fromNode":"f9e03229b2c7e5b1","fromSide":"top","toNode":"9232328cb346f922","toSide":"left"},
+		{"id":"3393f3202f733f17","fromNode":"9232328cb346f922","fromSide":"right","toNode":"2e30ed44c7bf7968","toSide":"top"}
+	]
+}

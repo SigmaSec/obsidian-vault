@@ -1,0 +1,5 @@
+UDP: No "connection" between client and server:
+no handshaking before sending data
+sender explicitly attached IP destination address and port # to each packet
+receiver extracts sender IP address and port # from received packet
+UDP: transmitted data may be lost or received 

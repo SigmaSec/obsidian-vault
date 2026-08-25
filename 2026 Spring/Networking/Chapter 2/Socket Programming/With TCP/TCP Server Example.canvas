@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"1fb2f36e75212893","x":-140,"y":-57,"width":250,"height":93,"type":"text","text":"Server\n(web)\nServer IP"},
+		{"id":"f1aa62627fb676ae","x":-480,"y":-57,"width":250,"height":60,"type":"text","text":"IP A\nPort: 8003"},
+		{"id":"76d6e364212ac231","x":-480,"y":-194,"width":250,"height":60,"type":"text","text":"A"},
+		{"id":"61e64b7d8a3484d3","x":220,"y":-194,"width":250,"height":60,"type":"text","text":"B"},
+		{"id":"57fec8af2438625e","x":220,"y":-40,"width":250,"height":60,"type":"text","text":"IP B\nPort 500"}
+	],
+	"edges":[
+		{"id":"d05d031bccc38439","fromNode":"61e64b7d8a3484d3","fromSide":"bottom","toNode":"57fec8af2438625e","toSide":"top"},
+		{"id":"b59bb6395b2cdcc3","fromNode":"57fec8af2438625e","fromSide":"bottom","toNode":"1fb2f36e75212893","toSide":"right","label":"B"},
+		{"id":"de6dc3099bd62b9f","fromNode":"76d6e364212ac231","fromSide":"bottom","toNode":"f1aa62627fb676ae","toSide":"top"},
+		{"id":"0c556a0c1c2380e0","fromNode":"f1aa62627fb676ae","fromSide":"bottom","toNode":"1fb2f36e75212893","toSide":"left","label":"A"}
+	]
+}

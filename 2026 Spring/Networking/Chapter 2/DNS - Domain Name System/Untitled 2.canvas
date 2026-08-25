@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"126cc799a39a0094","type":"text","text":"requesting host at engineering.nyu.edu","x":-268,"y":-158,"width":250,"height":60},
+		{"id":"2375fbcdd74ae099","type":"text","text":"Local DNS server at dns.nyu.edu","x":36,"y":-158,"width":250,"height":60},
+		{"id":"f84a05292e891cac","type":"text","text":"Root DNS server","x":326,"y":-313,"width":250,"height":60},
+		{"id":"00444efcb74a87a7","type":"text","text":"TLD DNS server","x":560,"y":-155,"width":250,"height":60},
+		{"id":"1738cad9eaef2201","type":"text","text":"Authoritative DNS server dns.cs.umass.edu","x":400,"y":54,"width":250,"height":60},
+		{"id":"e6933b0e1bbe880e","type":"text","text":"gaia.cs.umass.edu","x":900,"y":54,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"727883c84a5d8283","fromNode":"126cc799a39a0094","fromSide":"right","toNode":"2375fbcdd74ae099","toSide":"left"},
+		{"id":"0ea868e7e1e0788d","fromNode":"2375fbcdd74ae099","fromSide":"top","toNode":"f84a05292e891cac","toSide":"left","label":"2"},
+		{"id":"f5b08ee8d229d80e","fromNode":"f84a05292e891cac","fromSide":"bottom","toNode":"2375fbcdd74ae099","toSide":"right","label":"3"},
+		{"id":"3cc0c39f9cd1b3a0","fromNode":"2375fbcdd74ae099","fromSide":"right","toNode":"00444efcb74a87a7","toSide":"left","label":"4"},
+		{"id":"3ab3f2a8c961452f","fromNode":"00444efcb74a87a7","fromSide":"bottom","toNode":"2375fbcdd74ae099","toSide":"right","label":"5"},
+		{"id":"db45b37920bda92d","fromNode":"2375fbcdd74ae099","fromSide":"bottom","toNode":"1738cad9eaef2201","toSide":"left","label":"6"},
+		{"id":"337316726b7c91a7","fromNode":"1738cad9eaef2201","fromSide":"top","toNode":"2375fbcdd74ae099","toSide":"bottom","label":"7"},
+		{"id":"91f5f5203ed3c508","fromNode":"e6933b0e1bbe880e","fromSide":"left","toNode":"1738cad9eaef2201","toSide":"right","label":"client on auth"}
+	]
+}

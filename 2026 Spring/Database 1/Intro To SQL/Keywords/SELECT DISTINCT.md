@@ -1,0 +1,1 @@
+Select column and picks one of each row from the table

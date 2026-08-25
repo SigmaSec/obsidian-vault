@@ -1,0 +1,7 @@
+AVG()
+MIN()
+MAX()
+SUM()
+COUNT()
+VAR()
+STD()
