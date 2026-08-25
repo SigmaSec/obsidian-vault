@@ -42,4 +42,6 @@ Not x And y and Not Z
 		∧ - And Symbol
 		∨ - Or Symbol
 
-F
+From NAND we can make anything. 
+NAND Function:
+input | output
