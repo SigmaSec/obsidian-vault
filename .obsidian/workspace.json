@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 Fall (Current Semester)/352 Computer Organization/Test.md",
+                "file": "2026 Fall (Current Semester)/475 Security of Cyber-Physical Systems/Cyber Physical System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Cyber Physical System"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "2dbec19b45eddc6e",
   "lastOpenFiles": [
-    "2026 Fall (Current Semester)/475 Security of Cyber-Physical Systems/Cyber Physical System.md",
     "2026 Fall (Current Semester)/352 Computer Organization/Test.md",
+    "2026 Fall (Current Semester)/475 Security of Cyber-Physical Systems/Cyber Physical System.md",
     "GitHub",
     "2026 Fall (Current Semester)/352 Computer Organization/asjdk;g.md",
     "GitHub/Spring 2026/2026 Spring/Networking/Chapter 2/Socket Programming/With TCP/TCP Socket Operations/Server.md",
