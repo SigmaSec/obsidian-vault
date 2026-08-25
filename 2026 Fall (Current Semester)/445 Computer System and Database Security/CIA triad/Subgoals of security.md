@@ -22,3 +22,5 @@ Reliability is not important, if anything fails, everyone should fail, instead o
 
 Access control and Authorization is the same thing, but not authentication.
 
+
+
