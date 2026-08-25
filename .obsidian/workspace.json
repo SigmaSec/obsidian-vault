@@ -182,13 +182,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2dbec19b45eddc6e",
   "lastOpenFiles": [
     "2026 Fall (Current Semester)/475 Security of Cyber-Physical Systems/Cyber Physical System.md",
     "2026 Fall (Current Semester)/352 Computer Organization/Test.md",
+    "2026 Fall (Current Semester)/352 Computer Organization",
     "GitHub",
     "2026 Fall (Current Semester)/352 Computer Organization/asjdk;g.md",
     "GitHub/Spring 2026/2026 Spring/Networking/Chapter 2/Socket Programming/With TCP/TCP Socket Operations/Server.md",
@@ -227,7 +229,6 @@
     "GitHub/Spring 2026/2026 Spring/Networking/Chapter 2/DNS - Domain Name System/Untitled 1.canvas",
     "GitHub/Spring 2026/2026 Spring/Networking/Commands/EXEC",
     "GitHub/Spring 2026/2026 Spring/Networking/Chapter 4/Router Architecture Overview",
-    "GitHub/Spring 2026/2026 Spring/Networking/Chapter 4/Network Address Translation (NAT)",
     "2026 Spring/Networking/Commands/EXEC/Config/Config-Line/VTY.png",
     "2026 Spring/Networking/Chapter 2/Socket Programming/With TCP/TCP Server Example.canvas",
     "2026 Spring/Networking/Chapter 2/DNS - Domain Name System/Untitled 3.canvas",
