@@ -44,4 +44,10 @@ Not x And y and Not Z
 
 From NAND we can make anything. 
 NAND Function:
-input | output
+	input | output
+	0 | 0 = 1 
+	0 | 1 = 1
+	1 | 0 = 1
+	1 | 1 = 0
+
+AND 
