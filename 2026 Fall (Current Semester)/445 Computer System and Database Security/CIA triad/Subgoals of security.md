@@ -6,7 +6,7 @@ How can we achieve this?
 		Identification, authentication, access control, accountability, and non-repudiation
 
 [[Nonrepudiation]] - basically a digital signature
-Three main goals - remember [[CIA triad]], [[Confidentiality]], [[Integrity]], and [[Availability]].
+Three main goals - remember [[CIA triad: Confidentiality, Integrity, and Availability]].
 Subgoals - remember [[AAA]],  [[Authentication]], [[access control]], [[accountability]]
 [[access control]] == [[authorization]]
 That's it, that's the goal of security. 
@@ -20,4 +20,4 @@ D.) [[Reliability]]
 
 Reliability is not important, if anything fails, everyone should fail, instead of allow everyone to get through. 
 
-ooAccess contrl and Authorization is the same thing, but not authentication.
+[[Access control]] and [[Authorization]] is the same thing, but not authentication.
