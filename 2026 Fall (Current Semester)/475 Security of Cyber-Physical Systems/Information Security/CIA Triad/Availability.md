@@ -1,0 +1,1 @@
+Assets are accessible to authorized parties at appropriate times.

@@ -1,1 +1,0 @@
-A credible threat of countermeasures that prevents actions against the system by making the perceived cost of an attack outweigh the perceived benefits.

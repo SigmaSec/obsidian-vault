@@ -1,1 +1,0 @@
-[[Confidentiality]] - Only authorized parties can access computer-related assets
