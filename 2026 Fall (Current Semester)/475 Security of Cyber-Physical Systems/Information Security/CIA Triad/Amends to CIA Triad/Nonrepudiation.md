@@ -1,0 +1,1 @@
+Protects against an individuals' false denial of having performed a particular action and captures whether a user performed particular actions (i.e, sending and receiving a message)
