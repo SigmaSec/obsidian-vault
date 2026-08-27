@@ -9,4 +9,4 @@ A condition that results from the establishment and maintenance of protective me
 	Correction
 
 There was more money stolen using Cyber Fraud this year than the entire history of bank robberies. Why is this the case?
-	There really is no deterrent strong enough to prevent these types of things. 
+	There really is no deterrent strong enough to prevent these types of things. Think about nukes. Why has no one decided to use any? It is because of Mutually Assured Destruction. There is no deterrent just like this.
