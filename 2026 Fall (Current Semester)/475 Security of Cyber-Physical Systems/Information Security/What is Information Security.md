@@ -8,3 +8,5 @@ A condition that results from the establishment and maintenance of protective me
 	Recovery
 	Correction
 
+There was more money stolen using Cyber Fraud this year than the entire history of bank robberies. Why is this the case?
+	There really is no deterrent strong enough to prevent these types of things. 
