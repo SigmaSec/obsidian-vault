@@ -1,4 +1,5 @@
-Physical protection aims to defend an area in space according to the following principles
+Physical protection aims to defend an area in space according to the following principles adapted from the U.S. Department of Defense (2016) and U.S. Department of Energy (2005):
+
 [[Deterrence]] - A credible threat of countermeasures that prevents actions against the system by making the perceived cost of an attack outweigh the perceived benefits.
 [[Detection]] - The positive assessment that a specific object caused the alarm and/or the annoucement of a potential malevolent act through alarms.
 [[Delay]] - Impedements that slow or prevent an aversary from accessing a protected asset or from completing a malevolent act.

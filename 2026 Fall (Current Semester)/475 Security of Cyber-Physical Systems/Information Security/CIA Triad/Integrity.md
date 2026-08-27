@@ -1,0 +1,1 @@
+Assets can be modified only by authorized parties or only in authorized ways.
