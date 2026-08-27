@@ -6,3 +6,4 @@ Information Security is generally characterized by 3 core principles:
 	Amends to [[CIA triad]]:
 		[[Authentication]] - Verifies the identity, often as a prerequisite to access (Committee on National Security Systems, 2010).
 		[[Nonrepudiation]] - Protects against an individuals' false denial of having performed a particular action and captures whether a user performed particular actions (i.e, sending and receiving a message)
+		
