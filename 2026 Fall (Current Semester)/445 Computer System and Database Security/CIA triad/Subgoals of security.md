@@ -6,7 +6,7 @@ How can we achieve this?
 		Identification, authentication, access control, accountability, and non-repudiation
 
 [[Nonrepudiation]] - basically a digital signature
-Three main goals - remember [[CIA triad: Confidentiality, Integrity, and Availability]].
+Three main goals - remember [[CIA triad - Confidentiality, Integrity, and Availability]].
 Subgoals - remember [[AAA]],  [[Authentication]], [[access control]], [[accountability]]
 [[access control]] == [[authorization]]
 That's it, that's the goal of security. 
