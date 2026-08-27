@@ -1,0 +1,1 @@
+A condition that results from the establishment and maintenance of protetive measures that enable as 
