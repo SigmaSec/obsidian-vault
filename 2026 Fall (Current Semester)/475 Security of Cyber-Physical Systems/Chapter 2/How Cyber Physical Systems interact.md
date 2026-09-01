@@ -1,1 +1,4 @@
-![[{E27F80C7-D561-4D84-B4EA-3953230E57C7}.png]]
+![[{301E2F8B-F584-4A37-9D85-C4C13F053AE0}.png]]
+
+
+Did you know that your phone will provide the name of the owner's phone whenever they connect to a wifi network?
