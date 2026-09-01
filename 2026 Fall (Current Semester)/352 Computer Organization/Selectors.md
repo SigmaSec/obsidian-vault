@@ -1,0 +1,2 @@
+[[MultiPlexors]] are really simple, the third input on the bottom is called the [[Selector]] and it determines what the answer is. Selectors just selects the position/order the inputs are taken and just outputs it
+	 So if first input is 1, second input is 0, and selector is 0, then the output would be 1, since the selector is set to the position/index 0
