@@ -1,0 +1,2 @@
+Segementation applies the cyber-physical security control of deterrence by constructing a physical or logical barrier between groups of devices, grouped according to communication, function, criticality, and risk.
+	Segmentation i
