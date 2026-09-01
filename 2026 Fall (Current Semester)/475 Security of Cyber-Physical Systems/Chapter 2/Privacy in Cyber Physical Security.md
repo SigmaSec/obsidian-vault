@@ -1,0 +1,2 @@
+Wearable devices may interact with collection points in stores, restaurants, along highways, or wherever we go, and these collection points may be invisible
+	Collection points may force devices in the vicinity to reveal their identi
