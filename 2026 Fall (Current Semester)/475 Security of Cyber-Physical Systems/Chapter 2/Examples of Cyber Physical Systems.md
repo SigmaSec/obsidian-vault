@@ -3,4 +3,5 @@ Protecting Critical infrastructure from Blended Threat - Dam
 We can solve the lack of physical protection using measures such as 
 	Cameras
 	Alarms
-	Unique identifiers for each individual at the facility
+	System should require unique identifiers and passwords so that even if someone plugged a laptop directly into the PLC he or she would not be able to use the system without logging in
+Barriers and identifiers would also increase the delay time to use the system, giving authorities more time to act. 
