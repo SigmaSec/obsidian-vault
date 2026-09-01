@@ -22,3 +22,4 @@ Network-connected appliances are becoming commonplace in homes and offices and t
 	Connected refrigerators may automatically inventory food and even order staple items when the quantity is low
 	Voice activation and internet presence may allow consumers hands-free operation of some appliances, even when away from home. 
 But once again, the expectations for sharing the collected data are inconsistent, unclear, and may be hidden deep in some End-User License Agreement (EULA) that the consumer never reads or pays attention to.
+
