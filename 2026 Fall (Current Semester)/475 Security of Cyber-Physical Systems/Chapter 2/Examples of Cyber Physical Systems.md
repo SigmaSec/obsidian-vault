@@ -18,4 +18,7 @@ Wearable devices may interact with collection points in stores, restaurants, alo
 	Collection points may force devices in the vicinity to reveal their identities and to connect to the internet using the collection points as a middleman
 
 Network-connected appliances are becoming commonplace in homes and offices and their connectivity is intended to make life easier for consumers 
-	CO
+	Connected thermostats may adjust their heating and cooling efforts to the number of people at home and the schedule they learn to expect
+	Connected refrigerators may automatically inventory food and even order staple items when the quantity is low
+	Voice activation and internet presence may allow consumers hands-freee operation of some appliances, even when away from home. 
+But once again, the expectations for sharing the collected data are inconsistent, unclear, and may be hidden deep in some End-User License Agreement (EULA) 
