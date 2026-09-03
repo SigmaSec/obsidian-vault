@@ -7,11 +7,11 @@ What is the 4 bit representation of:
 	A.) -1
 		111
 	B.) -8
-		1000
+		1001
 	C.) -4
-			
+		0101
 	D.) -2
-			0010 and 1101 which equals 1111, so then add 1 to it, 1110
+		0010 and 1101 which equals 1111, so then add 1 to it, 1110
 
 Take bit inversion and take one
 
