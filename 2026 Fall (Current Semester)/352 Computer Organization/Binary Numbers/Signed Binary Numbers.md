@@ -5,7 +5,7 @@ We have to use 2's compliment.
 
 What is the 4 bit representation of:
 	A.) -1
-		111
+		1111
 	B.) -8
 		1001
 	C.) -4
