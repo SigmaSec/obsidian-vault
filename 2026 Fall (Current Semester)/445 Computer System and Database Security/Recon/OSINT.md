@@ -31,4 +31,7 @@ The harvester:
 	Shows all emails through linked in and shows all of the people who work at a particular company and then presents a list and what roles people have. 
 
 Search engine hacking: 
-	
+
+Operator:
+	(this is the operator->Site)site: sites.radford.edu/puppuluri
+		What this does it is that it asks google to search data available at this website.
