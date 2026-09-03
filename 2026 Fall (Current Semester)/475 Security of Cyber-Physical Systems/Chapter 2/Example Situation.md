@@ -17,3 +17,4 @@ Detente
 			MAD, equal enough militarily that they never dared to attack directly
 			We do not know enough about this certain incident to know exactly what went wrong.
 Detente requires treason, according to the professor
+	underestimation from drone designers and what they were capable of. What they should have done is self destruct if the location is physically impossible to get to. That's how this whole situation happened. 
