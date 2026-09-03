@@ -9,10 +9,10 @@ What is the 4 bit representation of:
 	B.) -8
 		1001
 	C.) -4
-		0101
+		0100 -> convert to 1011 -> add one -> 1100
 	D.) -2
 		0010 and 1101 which equals 1111, so then add 1 to it, 1110
 
-Take bit inversion and take one
+Take bit inversion (change the values at each position) and then add a one (1) 
 
 ![[Pasted image 20260903131720.png]]
