@@ -16,3 +16,4 @@ What information can you get from a company without doing anything  directly to 
 	Where email services are located 
 	What email clients are they using? 
 		(gmail, hotmail, outlook?)
+
