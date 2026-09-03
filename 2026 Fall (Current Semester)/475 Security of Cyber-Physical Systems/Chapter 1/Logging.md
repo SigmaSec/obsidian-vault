@@ -3,4 +3,5 @@ Data collection can be very useful for both the user and for understanding dynam
 
 Fitbit's initial policy of collecting and sharing all data, users had a great utility to compare their fitness to the activities of the group.
 
-Privacy controls 
+Privacy controls were insufficient over the external visibility and identifiability of the data.
+
