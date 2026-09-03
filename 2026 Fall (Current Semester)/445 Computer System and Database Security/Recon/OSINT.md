@@ -12,6 +12,7 @@ What information can you get from a company without doing anything  directly to 
 		Chess is a hobby --> Do a spear fishing email
 	Where a webserver is located
 		Crutial network severs are located? ex: 137.45.192.100
-		Looking for other servers or systems on the same IP address
-		Where email services are located 
-		What email clients are they using 
+		Looking for other servers or systems on 137.45.192.100 same network address
+	Where email services are located 
+	What email clients are they using? 
+		(gmail, hotmail, outlook?)
