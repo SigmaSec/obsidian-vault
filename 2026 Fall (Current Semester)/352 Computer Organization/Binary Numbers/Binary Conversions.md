@@ -8,3 +8,8 @@ convert binary to decimal:
 	1111 = 1 + 2 + 4 + 8 = 15
 	0011 = 1 + 2 = 3
 	1010 = 2 + 8 = 10
+
+convert decimal to binary
+	5 = 0101
+	16 = 1000
+	255
