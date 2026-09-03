@@ -10,9 +10,9 @@ convert binary to decimal:
 	1010 = 2 + 8 = 10
 
 convert decimal to binary
-	5 = 0101
+	5 = 101
 	16 = 10000
-	255 = 11111111
+	255 = 01111111
 
 
 
