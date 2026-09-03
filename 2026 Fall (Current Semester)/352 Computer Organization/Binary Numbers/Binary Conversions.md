@@ -11,5 +11,6 @@ convert binary to decimal:
 
 convert decimal to binary
 	5 = 0101
-	16 = 1000
-	255
+	16 = 10000
+	255 = 11111111
+
