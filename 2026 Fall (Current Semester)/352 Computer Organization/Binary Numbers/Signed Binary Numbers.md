@@ -9,6 +9,7 @@ What is the 4 bit representation of:
 	B.) -8
 		1000
 	C.) -4
-		
+
+	D.)
 	
 ![[Pasted image 20260903131720.png]]
