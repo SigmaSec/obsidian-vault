@@ -1,0 +1,1 @@
+Identity management is the maintenance of credentials for identification of people
