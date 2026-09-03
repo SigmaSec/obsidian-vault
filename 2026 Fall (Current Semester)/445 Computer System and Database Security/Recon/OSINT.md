@@ -33,7 +33,10 @@ The harvester:
 Search engine hacking: 
 
 Search Engine Operator:
-	(this is the operator->Site)site: sites.radford.edu/puppuluri
+	[[Site]] - site: sites.radford.edu/puppuluri
 		What this does it is that it asks google to search data available at this website.
-	You can do more with this. Let's say you wanted to find login of all Radford websites. 
-		Ex: Site:radford.edu login and will show you ALL available logins. This will allow you to find ALL login fields that relate to 
+		You can do more with this. Let's say you wanted to find login of all Radford websites. 
+		Ex: Site:radford.edu login and will show you ALL available logins. This will allow you to find ALL login fields that relate to radford.edu
+	[[filetype]] - type of file that you want to look for. 
+		Let's say you only wanted to see PDFs, you would add filetype: and then the extention of the file that you want to search for. 
+		
