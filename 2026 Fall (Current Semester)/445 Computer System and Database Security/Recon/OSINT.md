@@ -26,4 +26,9 @@ We get a response from dig
 			The providers are where the emails will originate from. In this one, it will originate from boardbooks.com, outlook.com, or elluciancloud.com. ![[{76BA3B2B-62AA-44EC-ADFA-D0A0122F3085}.png]]
 			
 			This does not mean that it does not ALWAYS go through email. Sometimes it will, sometimes it will end up in spam. This is to prevent spam. 
-			
+
+The harvester: 
+	Shows all emails through linked in and shows all of the people who work at radford and then presents a list and what roles people have. 
+
+Search engine hacking: 
+	
