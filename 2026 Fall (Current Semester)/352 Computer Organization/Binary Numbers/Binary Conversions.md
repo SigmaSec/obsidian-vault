@@ -12,7 +12,10 @@ convert binary to decimal:
 convert decimal to binary
 	5 = 101
 	16 = 10000
-	255 = 01111111
+	255 = 1111111
+
+Largest number that can be represented by 8 bits? 
+	255
 
 
 
