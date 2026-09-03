@@ -6,3 +6,4 @@ Adding cyber capablilities to physical objecs has radically changed the nature o
 When CPS creators can make firmware that expires and requires upgrades that force certain features or restrictions on the buyer long after the sale, the cyber part becomes an elastic contract with all the flexibility on the supplier's end.
 
 The only way to refuse this overt control is to write one's own firmware for the machine. This means the true owner of every CPS device is the one who writes the code supporting the cyber part.
+
