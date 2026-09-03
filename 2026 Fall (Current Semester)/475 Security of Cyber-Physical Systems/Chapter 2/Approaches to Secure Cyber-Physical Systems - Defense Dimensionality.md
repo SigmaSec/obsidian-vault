@@ -1,0 +1,1 @@
+The principle is that there are several layers of defense. If one layer gets compromised, then that doesn't mean everything is leaked. Just that layer, and anyting
