@@ -39,4 +39,6 @@ Search Engine Operator:
 		Ex: Site:radford.edu login and will show you ALL available logins. This will allow you to find ALL login fields that relate to radford.edu
 	[[filetype]] - type of file that you want to look for. 
 		Let's say you only wanted to see PDFs, you would add filetype: and then the extention of the file that you want to search for. 
-		
+
+How can you use this information as a hacker? 
+	Someone can look up open source files that may be out there in the public that we do not want people to know about. Let's say someone put a PDF of how the network is mapped out, we do not want people to see that. 
