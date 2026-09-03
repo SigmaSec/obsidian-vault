@@ -17,3 +17,6 @@ What information can you get from a company without doing anything  directly to 
 	What email clients are they using? 
 		(gmail, hotmail, outlook?)
 
+
+We get a response from dig
+	We look at the v=spf1 because it shows what email services provider it uses, and what cloud provider it is one 
