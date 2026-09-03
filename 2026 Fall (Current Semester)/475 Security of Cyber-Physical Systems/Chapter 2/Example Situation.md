@@ -10,3 +10,9 @@ Drones also get information from GPS.
 	Protocol tight enough that they could not take control of the drone, but exploited the failsafe's of the drone, and tell the drones 
 		Drone became model for them to develop their own drones, which we are now fighting. 
 			Exported to Russia, and now Russia has been using it against Ukraine. Huge consequences. 
+Detente
+		Important word!
+	Primary Definition:
+		Easing of hostility between two forces.
+			MAD, equal enough militarily that they never dared to attack directly
+			We do not know enough about this certain incident to know exactly what went wrong
