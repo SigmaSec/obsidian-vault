@@ -24,4 +24,7 @@ How to convert from 2's complement to decimal?
 		B.) 
 			10101 -> 01010 + 1 = 01011 = -11
 		C.) 
-			10000 -> 01111 + 1 = -1
+			10000 -> 01111 + 1 = 10000 = -16
+
+What is the smallest and largest number that can be represented with a n-bit 2's compliment? 
+	2^n-1 -1 and -2^n-1 
