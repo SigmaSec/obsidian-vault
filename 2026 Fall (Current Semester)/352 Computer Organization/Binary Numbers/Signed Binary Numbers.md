@@ -16,3 +16,6 @@ What is the 4 bit representation of:
 Take bit inversion (change the values at each position) and then add a one (1) 
 
 ![[Pasted image 20260903131720.png]]
+
+How to convert from 2's complement to decimal? 
+	
