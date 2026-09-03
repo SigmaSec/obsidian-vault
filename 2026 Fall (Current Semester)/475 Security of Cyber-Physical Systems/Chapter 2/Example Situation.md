@@ -15,4 +15,5 @@ Detente
 	Primary Definition:
 		Easing of hostility between two forces.
 			MAD, equal enough militarily that they never dared to attack directly
-			We do not know enough about this certain incident to know exactly what went wrong
+			We do not know enough about this certain incident to know exactly what went wrong.
+Detente requires treason, according to the professor
