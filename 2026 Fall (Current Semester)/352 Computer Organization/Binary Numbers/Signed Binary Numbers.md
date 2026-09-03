@@ -5,9 +5,9 @@ We have to use 2's compliment.
 
 What is the 4 bit representation of:
 	A.) -1
-		
+		111
 	B.) -8
-		
+		1000
 	C.) -4
 		
 	
