@@ -28,7 +28,7 @@ We get a response from dig
 			This does not mean that it does not ALWAYS go through email. Sometimes it will, sometimes it will end up in spam. This is to prevent spam. 
 
 The harvester: 
-	Shows all emails through linked in and shows all of the people who work at radford and then presents a list and what roles people have. 
+	Shows all emails through linked in and shows all of the people who work at a particular company and then presents a list and what roles people have. 
 
 Search engine hacking: 
 	
