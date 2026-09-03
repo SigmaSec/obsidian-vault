@@ -20,8 +20,8 @@ Take bit inversion (change the values at each position) and then add a one (1)
 How to convert from 2's complement to decimal? 
 	exact same process 
 		A.)
-			11110 -> -11111 = 
+			11110 -> -00001 + 1  = 00010 = -2
 		B.) 
-			10101
+			10101 -> 01010 + 1 = 01011 = -11
 		C.) 
-			10000
+			10000 -> 01111 + 1 = -1
