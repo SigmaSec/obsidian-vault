@@ -6,6 +6,6 @@ Fixed point numbers allows us to represent fractional numbers on a computer
 		(0.1)(2) = 1/2
 
 Question 12: What do the following fixed point binary numbers represent (Express the answer as a decimal)?
-	Question 12.1: 0000.1000 = 1/2
-	Question 12.2: 0011.1100 = (1 + 2).1/2 + 2/2 = (1 + 2). 0.5 + .0.25 = 
-	Question 12.3: 1111.1111 = 8 + 4  + 2 + 1. 1/2 + 2/2 + 3/2 + 4/2 = 15.
+	Question 12.1: 0000.1000 = 0.5
+	Question 12.2: 0011.1100 = (1 + 2).1/2 + 2/2 = (1 + 2). 0.5 + 0.25 = 3.75
+	Question 12.3: 1111.1111 = 8 + 4  + 2 + 1. 1/2 + 2/2 + 3/2 + 4/2 = 15. + 0.5 + 0.25 + 0.125 + 0.0625 = 15.9465
