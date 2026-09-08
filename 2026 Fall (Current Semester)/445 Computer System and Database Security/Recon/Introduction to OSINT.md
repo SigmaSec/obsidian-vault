@@ -35,4 +35,7 @@ Which of the following metadata tags are defined in the EXIF standard?
 	time
 	date when the picture was taken
 Which of the following are examples of metadata on a web?
-	
+	Location on a photograph
+	Office documents 
+	PDF fIles
+	Author of a PDF File
