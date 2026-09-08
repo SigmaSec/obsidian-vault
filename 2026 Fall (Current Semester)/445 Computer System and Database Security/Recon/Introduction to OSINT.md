@@ -16,5 +16,8 @@ Which of following types of security sensitive data may be gleaned using a searc
 	Webcams
 	Personal Data
 How can you find webcams on google 
+	When specifically looking for webcams look for DCIM 
+		DCIM 
+	Websites exist for this purpose, websites like shodan. 
 What type of files does the Google search operator **filetype:ps** search for?
 	
