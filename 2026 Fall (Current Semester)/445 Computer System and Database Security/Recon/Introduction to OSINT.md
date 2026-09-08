@@ -10,3 +10,8 @@ Visit [www.osintframework.com](http://www.osintframework.com) and expand upon t
 	The Harvester (T) 
 	ThatsThem
 	Hunter
+Which of following types of security sensitive data may be gleaned using a search engine's advanced operators?
+	HTML files
+	PDF files
+	Webcams
+	Personal Data
