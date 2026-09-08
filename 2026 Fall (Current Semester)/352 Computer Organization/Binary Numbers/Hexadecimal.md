@@ -29,3 +29,12 @@ Question 9:
 		FF: 
 		15 * (16^1) + 15 * (16^0) = 255
 			255
+
+Question 10:
+	Convert decimal to Hexadecimal
+	Question 10.1:
+		16:
+	Question 10.2:
+		127:
+	Question 10.3:
+		100:
