@@ -1,0 +1,1 @@
+In order to discuss security and privacy issues in this [[General Reference Model]], we further characterize typical information flows. We highl
