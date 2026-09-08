@@ -20,4 +20,6 @@ How can you find webcams on google
 		DCIM 
 	Websites exist for this purpose, websites like shodan. 
 What type of files does the Google search operator **filetype:ps** search for?
-	
+	Postscript file
+What type of files will most likely dominate the first search results if you search for 'IDENTIFIED BY' (include the quotes in the search)?
+	SQL files

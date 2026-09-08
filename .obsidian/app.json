@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "2026 Fall (Current Semester)/Images",
-  "attachmentFolderPath": "Images"
+  "attachmentFolderPath": "Images",
+  "showLineNumber": true
 }
