@@ -19,8 +19,13 @@ Question 9:
 	What do the following hexadecimal numbers represent in decimal?
 	Question 9.1:
 		11:
-		16
-		17
+		16^1 and 16^0 = 16 + 1 = 17
+			17
 	Question 9.2:
 		20:
-		
+		16^1 + 16^1 = 32
+			32
+	Question 9.3:
+		FF: 
+		15 * (16^1) + 15 * (16^0) = 255
+			255
