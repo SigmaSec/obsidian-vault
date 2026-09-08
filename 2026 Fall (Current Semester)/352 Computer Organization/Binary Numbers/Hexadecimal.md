@@ -34,7 +34,10 @@ Question 10:
 	Convert decimal to Hexadecimal
 	Question 10.1:
 		16:
+		1 and 0 
+		16^1 * (1) = 16
 	Question 10.2:
 		127:
+			
 	Question 10.3:
 		100:
