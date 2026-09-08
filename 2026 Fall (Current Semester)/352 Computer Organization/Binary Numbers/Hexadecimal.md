@@ -14,4 +14,11 @@ Hexadecimal:
 256 16 1 
 257
 
-Question 9.
+Question 9:
+	What do the following hexadecimal numbers represent in decimal?
+	Question 9.1:
+		11:
+		00001011
+	Question 9.2:
+		20:
+		
