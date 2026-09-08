@@ -13,10 +13,12 @@ Hacking Techniques we are interested in when reconning:
 	Phishing, Waling, Spearfishing. 
 
 Open source intelligence
-	
+
 Passive recon:
 	IP addresses of an organization
 		IP of servers, computers
-	
+	you are not telling the target that you are looking for information on them
 Active recon:
-	
+	Probing
+		asking questions seeing responses
+	They would be able to tell that you are targeting them using Active recon
