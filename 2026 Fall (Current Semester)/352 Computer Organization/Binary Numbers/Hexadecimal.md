@@ -8,17 +8,19 @@ Hexadecimal:
 	For example: 
 		101 does not equal 0x101, that is the equivalent to 257
 
-0 1 0 1
-10^3 10^2 10^1 10^0
-16^3 16^2 16^1 16^0
-256 16 1 
-257
+Class example:
+	0 1 0 1
+	10^3 10^2 10^1 10^0
+	16^3 16^2 16^1 16^0
+	256 16 1 
+	257
 
 Question 9:
 	What do the following hexadecimal numbers represent in decimal?
 	Question 9.1:
 		11:
-		00001011
+		16
+		17
 	Question 9.2:
 		20:
 		
