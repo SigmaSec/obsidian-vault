@@ -1,1 +1,3 @@
-In order to discuss security and privacy issues in this [[General Reference Model]], we further characterize typical information flows. We highl
+In order to discuss security and privacy issues in this [[General Reference Model]], we further characterize typical information flows. We highlight especially two flows of information, the interlevel and the intralevel flow of information.
+
+In the interlevel flow of information, data typically flow upstream, that is, from the device level through the control level to the Cloud level, while being increasingly processed and aggregated on the way. Instructions and command flow downstream, eventually 
