@@ -25,5 +25,14 @@ What type of files will most likely dominate the first search results if you sea
 	SQL files
 		IDENTIFIED BY is for authorization, and can even show you the direct hashes. 
 Which of the following tools can be used to identify metadata on various documents?
-
-	Metadata shows location, what device was used, even timestamps
+	Metagoofil
+		Metadata shows location, what device was used, even timestamps
+What does EXIF stand for?
+	Exchangeable Image File Format
+Which of the following metadata tags are defined in the EXIF standard?
+	Camera type
+	location where photo was taken
+	time
+	date when the picture was taken
+Which of the following are examples of metadata on a web?
+	
