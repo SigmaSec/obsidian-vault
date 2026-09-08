@@ -11,4 +11,9 @@ Some questions to ask when doing a recon:
 
 Hacking Techniques we are interested in when reconning:
 	Phishing, Waling, Spearfishing. 
+Open source I
 
+Passive recon:
+	
+Active recon:
+	
