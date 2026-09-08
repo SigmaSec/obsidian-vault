@@ -47,4 +47,5 @@ Question 10:
 Question 11: 
 	Why do you think hexadecimal (base 16) is more useful than other bases?
 	because 0 -> F as a binary number is 0000 -> 1111. 
-	00 -> FF as a binary number is 0000000 -> 11111111. It
+	00 -> FF as a binary number is 0000000 -> 11111111. 
+		It is because it is a multiple of 8, which allows us to show an entire Byte in 2 bits
