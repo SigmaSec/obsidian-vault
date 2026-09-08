@@ -11,9 +11,12 @@ Some questions to ask when doing a recon:
 
 Hacking Techniques we are interested in when reconning:
 	Phishing, Waling, Spearfishing. 
-Open source I
 
+Open source intelligence
+	
 Passive recon:
+	IP addresses of an organization
+		IP of servers, computers
 	
 Active recon:
 	
