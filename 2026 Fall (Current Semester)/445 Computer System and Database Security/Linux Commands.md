@@ -1,1 +1,2 @@
 nmap - shows you all open ports open on targeted machine
+	nmap -sV shows versions of what services are running, on what port, and what exact version they are on. Important, because there may be version vulnerabilities 
