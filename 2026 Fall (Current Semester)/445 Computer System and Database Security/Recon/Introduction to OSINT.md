@@ -23,3 +23,4 @@ What type of files does the Google search operator **filetype:ps** search for?
 	Postscript file
 What type of files will most likely dominate the first search results if you search for 'IDENTIFIED BY' (include the quotes in the search)?
 	SQL files
+		IDENTIFIED BY is for authorization, and can even show you the direct hashes. 
