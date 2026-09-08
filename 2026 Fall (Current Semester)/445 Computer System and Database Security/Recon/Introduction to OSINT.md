@@ -15,3 +15,6 @@ Which of following types of security sensitive data may be gleaned using a searc
 	PDF files
 	Webcams
 	Personal Data
+How can you find webcams on google 
+What type of files does the Google search operator **filetype:ps** search for?
+	
