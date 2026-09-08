@@ -13,6 +13,6 @@ Question 13:
 Question 14:
 	Let's take this number: 2.998 * 10^8
 	what is (in decimal):
-	Question 14.1: the significand:
-	Question 14.2: the exponent:
-	Question 14.3: the value of the binary bit sign:
+	Question 14.1: the significand: 2.998
+	Question 14.2: the exponent: 8
+	Question 14.3: the value of the binary bit sign: 0
