@@ -8,4 +8,8 @@ are two further concepts needed to fully explain the IEEE 754 standard: the lead
 
 Question 13:
 	What would be an advantage of using a floating-point number over a fixed point number?
-		Being able to display or represent a number that is not a whole number. If we were not able to show decimals, we would not be able to do online banking.
+		Being able to display or represent a number that is not a whole number. If we were not able to show decimals, we would not be able to do online banking. Can get a whole range of numbers by using exponentiated numbers work along with whole numbers
+
+Question 14:
+	Let's take this number: 2.998 * 10^8
+	Question 14.
