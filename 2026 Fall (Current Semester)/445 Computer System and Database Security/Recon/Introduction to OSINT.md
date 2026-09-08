@@ -7,4 +7,6 @@ Which of the following could be considered tools or sources that you could use t
 OSINT plays an important role when it comes to data collection about a potential target of a penetration test.
 	True
 Visit [www.osintframework.com](http://www.osintframework.com) and expand upon the tree to find email addresses by clicking Email Address → Email Search.  The options presented to you could be of use when gathering intelligence on email addresses associated with a particular domain or username.  Which of the following are options available to you?
-	
+	The Harvester (T) 
+	ThatsThem
+	Hunter
