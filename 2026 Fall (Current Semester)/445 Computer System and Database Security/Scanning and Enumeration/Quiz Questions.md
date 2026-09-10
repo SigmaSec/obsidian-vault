@@ -68,3 +68,8 @@ Nmap scan ACK
 The way that Nmap gets around being blocked is that it pretends to be an already established connection. 
 	It sends a fake SYN + ACK
 	Server will send back a RST (reset) message if this occurs, which allows Nmap to come into play.
+
+An XMAS scan is where you send all the flags as 1
+	You are "lighting up the tree" or "flag fields"
+	The idea is that the implementations get confused and may create a vulnerability
+
