@@ -6,3 +6,6 @@ Servers that a target may have
 		Internal (onecampus)
 		rucs
 		Banner
+
+Question 1: 
+	Nmap is a tool for scanning and/or enumuration 
