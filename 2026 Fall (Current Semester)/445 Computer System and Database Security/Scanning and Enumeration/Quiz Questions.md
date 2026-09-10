@@ -33,6 +33,16 @@ Question 6:
 	Port typical for web servers:
 		80
 
+Question 7:
+	HTTP uses which of the following as its transport protocol:
+		TCP
+
+Question 8:
+	3 way handshake:
+		SYN -> SYN +ACK -> ACK
+
+Question 9:
+	
 
 How 
 
