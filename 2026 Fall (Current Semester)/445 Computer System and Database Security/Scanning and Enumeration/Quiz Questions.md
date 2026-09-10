@@ -49,4 +49,6 @@ Nmap scan ACK
 	client -> SYN -> Sever (this is typically blocked by most applications to protect and prevent vulnerabilities)
 	Server -> SYN + ACK -> client
 
-The way that Nmap gets around being blocked is that it prentend
+The way that Nmap gets around being blocked is that it prentends to be an already established connection. 
+	It sends a fake SYN + ACK
+	Server will send back a RST (reset) message if this occurs, which allows nmap to come into play.
