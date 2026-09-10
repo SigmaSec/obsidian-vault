@@ -8,4 +8,7 @@ Servers that a target may have
 		Banner
 
 Question 1: 
-	Nmap is a tool for scanning and/or enumuration 
+	Nmap is a tool for scanning and/or enumeration 
+
+DMBS -> frontend (web browswer) 
+	This could be a misconfigured SQL database that has a vulnurabil
