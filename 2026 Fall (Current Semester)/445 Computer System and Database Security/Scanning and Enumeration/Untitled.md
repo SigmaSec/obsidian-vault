@@ -6,4 +6,3 @@ Servers that a target may have
 		Internal (onecampus)
 		rucs
 		Banner
-		
