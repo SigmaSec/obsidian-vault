@@ -71,5 +71,5 @@ The way that Nmap gets around being blocked is that it pretends to be an already
 
 An XMAS scan is where you send all the flags as 1
 	You are "lighting up the tree" or "flag fields"
-	The idea is that the implementations get confused and may create a vulnerability
+		The idea is that the implementations get confused and may create a vulnerability
 
