@@ -27,6 +27,12 @@ Question 4:
 
 Question 5:
 	ICMP scans are typically blocked by firewalls (T/F?)
+		T
+
+Question 6:
+	Port typical for web servers:
+		80
+
 
 How 
 
