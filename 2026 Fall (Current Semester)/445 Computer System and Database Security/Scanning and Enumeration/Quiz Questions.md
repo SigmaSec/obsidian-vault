@@ -19,4 +19,15 @@ Question 2:
 
 Question 3:
 	Which of the following are passive scanners:
-		
+		Wireshark and p0f
+
+Question 4:
+	What type of scan will a pen-tester use if they do not wanted to be seen?
+		Passive
+
+Question 5:
+	ICMP scans are typically blocked by firewalls (T/F?)
+
+How 
+
+nmap -> client which sends question to server, server responds 
