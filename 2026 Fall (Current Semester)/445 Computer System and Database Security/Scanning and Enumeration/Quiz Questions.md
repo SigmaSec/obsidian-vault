@@ -43,3 +43,4 @@ nmap, |  web server, http and https are typical protocols that are used by serve
 
 This is relevant to Nmap, because it sends a SYN and if it comes back as an ACK you know that port is opening and listening and what could be a vulnerability.
 	Nmap -> sequence -> SYN scan complete
+	
