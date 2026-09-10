@@ -46,5 +46,5 @@ This is relevant to Nmap, because it sends a SYN and if it comes back as an ACK 
 
 
 Nmap scan ACK
-	client -> SYN -> Sever (this is typically blocked by most applications to protect and prevent )
+	client -> SYN -> Sever (this is typically blocked by most applications to protect and prevent vulnerabilities)
 	Server -> SYN + ACK -> client
