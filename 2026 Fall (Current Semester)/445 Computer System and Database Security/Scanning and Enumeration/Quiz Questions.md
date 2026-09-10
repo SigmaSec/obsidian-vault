@@ -35,4 +35,6 @@ Nmap -> client which sends question to server
 		fingerprint -> pro ftpd 1.3.5
 
 client | server
-nmap |  web server, http and https are typical protocols that are used by servers, HTTP
+nmap, |  web server, http and https are typical protocols that are used by servers, HTTP
+	HTTP and HTTPS uses TCP. Tries to establish a connection using 3 way handshake
+
