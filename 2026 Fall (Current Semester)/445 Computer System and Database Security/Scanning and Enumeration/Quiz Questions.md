@@ -37,5 +37,7 @@ Nmap -> client which sends question to server
 client | server
 nmap, |  web server, http and https are typical protocols that are used by servers, HTTP
 	HTTP and HTTPS uses TCP. Tries to establish a connection using 3 way handshake
-		SYN chronization, has specific sequence number
-		SYN ACK and 
+		SYN chronization, has specific sequence number from client to server
+		SYN ACK and sends SYN and makes sure it is current requests with different seq number from server to client
+		SYN ACK from Client
+This is relavant to nmap, because it sends a SYN and if it comes back as an ACK you know that port is opening and listening and what could be a vulnerabl
