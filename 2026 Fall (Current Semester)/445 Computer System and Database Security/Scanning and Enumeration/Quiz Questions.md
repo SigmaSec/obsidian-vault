@@ -30,4 +30,9 @@ Question 5:
 
 How 
 
-nmap -> client which sends question to server, server responds 
+Nmap -> client which sends question to server
+	server responds collects response -> this is now called a fingerprint
+		fingerprint -> pro ftpd 1.3.5
+
+client | server
+nmap |  web server, http and https are typical protocols that are used by servers, HTTP
