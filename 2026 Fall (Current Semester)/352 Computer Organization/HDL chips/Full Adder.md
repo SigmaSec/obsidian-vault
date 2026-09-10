@@ -1,4 +1,4 @@
-Two half a
+Two half-adders and an OR gate
 
 Chip:
 	CHIP FullAdder {
