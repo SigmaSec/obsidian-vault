@@ -10,4 +10,9 @@ A software that doesn't accept any input cannot be remotely attacked
 
 input size
 
-input tyu
+input type
+	SQL injection attacks
+	XSS
+	XSRF
+	Format string attacks
+		all are taking advantage of the input type
