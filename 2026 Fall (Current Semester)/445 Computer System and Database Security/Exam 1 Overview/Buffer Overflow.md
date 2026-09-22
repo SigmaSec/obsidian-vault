@@ -7,3 +7,7 @@ A type of attack that tries to overload the system and allows you to input once 
 
 A software that doesn't accept any input cannot be remotely attacked
 	most attacks happen via input
+
+input size
+
+input tyu
