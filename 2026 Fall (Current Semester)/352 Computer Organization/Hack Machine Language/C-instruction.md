@@ -10,5 +10,9 @@
 @3
 	A = 3
 		D = A D =3
-		D+; JLT
-			means that we will jump to whatever is in the register, as long as it is less than.
+		D+; JLT (Jump Less Than)
+			means that we will jump to whatever is in the register, as long as it is less than. 
+@7
+D = A 
+@1
+D - 1; JGE (Jump Greater Equal)
