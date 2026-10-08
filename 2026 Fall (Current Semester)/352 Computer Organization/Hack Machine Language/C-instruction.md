@@ -16,3 +16,10 @@
 D = A 
 @1
 D - 1; JGE (Jump Greater Equal)
+
+@7
+D = A
+@1
+M = D
+@0
+M; JGT(Jump Greater Than)
