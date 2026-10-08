@@ -1,0 +1,1 @@
+16-bits -> cpu -> 16 bits
