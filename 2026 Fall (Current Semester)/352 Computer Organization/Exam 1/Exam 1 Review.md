@@ -26,4 +26,4 @@ D=A - Set D to A (D=1)
 @2 - Set A to 2
 M=D + 1 - Set M[2] = D (M[2] = 2)
 M; JEQ (Jump Equivalent) -  We do not jump because M is not equal to 1 
-D-1; JEQ - Compares D (currently 1) - 1= 0, so we jump. We jump to whatever is in A (currently 2) 
+D-1; JEQ - Compares D at current position (currently 1) - 1= 0, so we jump. We jump to whatever is in A (currently 2) 
