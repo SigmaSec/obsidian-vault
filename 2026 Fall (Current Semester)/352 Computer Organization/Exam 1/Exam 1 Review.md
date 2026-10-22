@@ -12,3 +12,15 @@ D=A - put 5 into D
 
 A = 15
 D = 5
+
+@3
+D=A
+@5
+M=D
+D=A
+@3
+M=D
+
+A?
+D?
+M[3]
