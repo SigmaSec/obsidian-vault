@@ -30,4 +30,6 @@ D-1; JEQ - Compares D at current position (currently 1) - 1= 0, so we jump. We j
 
 2's compliment
 review this 
-
+Flip the bits 
+then add both the flipped and the original together
+then you will get zero 
