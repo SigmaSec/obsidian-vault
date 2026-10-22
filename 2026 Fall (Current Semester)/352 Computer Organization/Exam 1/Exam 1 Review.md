@@ -13,13 +13,13 @@ D=A - put 5 into D
 A = 15
 D = 5
 
-@3
-D=A
-@5
-M=D
-D=A
-@3
-M=D
+@3 - Set A to 3
+D=A - Set D to A (3)
+@5 - Set A to 5
+M=D - Set M to D (3)
+D=A - Set D to A (5)
+@3 - Set A to 3
+M=D - Set M(5) to D (5)
 
 A?
 D?
