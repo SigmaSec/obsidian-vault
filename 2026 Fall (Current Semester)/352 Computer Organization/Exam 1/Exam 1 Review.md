@@ -33,3 +33,5 @@ review this
 Flip the bits 
 then add both the flipped and the original together
 then you will get zero 
+
+how to get -5 
