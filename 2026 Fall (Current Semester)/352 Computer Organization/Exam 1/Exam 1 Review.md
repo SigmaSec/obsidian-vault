@@ -29,6 +29,5 @@ M; JEQ (Jump Equivalent) -  We do not jump because M is not equal to 1
 D-1; JEQ - Compares D at current position (currently 1) - 1= 0, so we jump. We jump to whatever is in A (currently 2) 
 
 2's compliment
-0  1101
-0  0001
-1  0001
+review this 
+
