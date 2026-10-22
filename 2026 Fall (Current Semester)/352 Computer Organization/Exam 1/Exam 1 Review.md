@@ -54,3 +54,4 @@ sel output -> 0011
 in -> demultiplexor
 sel -> 10
 demultiplexor -> 0 0 in 0 
+
