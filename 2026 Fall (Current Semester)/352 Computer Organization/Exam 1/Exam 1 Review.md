@@ -48,4 +48,5 @@ a -> sel
 b -> sel
 c -> sel
 d -> sel
-	sel -> 00
+	sel -> 00 01 10 11
+sel output -> 0011
