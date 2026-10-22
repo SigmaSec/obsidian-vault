@@ -1,2 +1,2 @@
 First question 1975 - 
-second - least privilege, Complete Mediation, 
+second - least privilege, Complete Mediation, Separation of privilege, 
