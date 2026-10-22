@@ -16,7 +16,7 @@ D = 5
 @3 - Set A to 3
 D=A - Set D to A (3)
 @5 - Set A to 5
-M=D - Set M to D (3)
+M=D - Set M at 5 to D (3)
 D=A - Set D to A (5)
 @3 - Set A to 3
 M=D - Set M(5) to D (5)
