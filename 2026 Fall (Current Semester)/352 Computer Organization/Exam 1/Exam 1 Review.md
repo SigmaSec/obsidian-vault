@@ -62,5 +62,9 @@ CLK in out
 	2 0 1
 	3 0 0
 	4 _ 0
-out(t) = out(t-1)
-DFF out -> back into the DFF for the previous time step
+not load: out(t) = out(t-1)
+if load: out(t) = in(t-1) 
+DFF out -> back into the input of the DFF for the previous time step
+
+in -> multiplexor with load bit -> DFF -> output is the input
+	Do we send current time or previous time? 
