@@ -38,3 +38,14 @@ how to get -5
 0101
 1010
 1011
+
+X -> sel
+y -> sel 
+sel -> 1 
+sel -> y
+
+a -> sel
+b -> sel
+c -> sel
+d -> sel
+	sel -> 00
