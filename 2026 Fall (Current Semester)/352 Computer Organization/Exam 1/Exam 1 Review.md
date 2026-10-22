@@ -39,14 +39,18 @@ how to get -5
 1010
 1011
 
-X -> sel
-y -> sel 
+X -> multiplxor
+y -> multiplxor 
 sel -> 1 
 sel -> y
 
-a -> sel
-b -> sel
-c -> sel
-d -> sel
-	sel -> 00 01 10 11
+a -> multiplxor
+b -> multiplxor
+c ->multiplxor
+d -> multiplxor
+sel -> 00 01 10 11
 sel output -> 0011
+
+in -> demultiplexor
+sel -> 10
+demultiplexor -> 0 0 in 0 
