@@ -19,9 +19,4 @@ D=A - Set D to A (3)
 M=D - Set M at 5 to D (3)
 D=A - Set D to A (5)
 @3 - Set A to 3
-M=D - Set M(5) to D (5)
-
-A?
-D?
-M[3]? 
-M[5]?
+M=D - Set M at 3 to D (5) (M[3] = 5, M[5] = 3)
