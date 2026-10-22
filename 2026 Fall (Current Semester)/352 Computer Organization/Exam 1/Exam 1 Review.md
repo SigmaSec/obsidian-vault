@@ -55,3 +55,12 @@ in -> demultiplexor
 sel -> 10
 demultiplexor -> 0 0 in 0 
 
+DFF: output(t) = in (t-1) 
+CLK in out
+	0 1 ?
+	1 1 1
+	2 0 1
+	3 0 0
+	4 _ 0
+out(t) = out(t-1)
+DFF out -> back into the DFF for the previous time step
